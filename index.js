@@ -1,5 +1,4 @@
 import express from 'express';
-import { publicIpv4 } from 'public-ip';
 import cors from 'cors';
 const app = express();
 
